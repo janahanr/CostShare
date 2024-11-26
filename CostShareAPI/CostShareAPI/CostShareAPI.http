@@ -1,0 +1,6 @@
+@CostShareAPI_HostAddress = http://localhost:5063
+
+GET {{CostShareAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
